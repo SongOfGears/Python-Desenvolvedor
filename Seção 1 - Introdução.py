@@ -11,4 +11,4 @@ print(curso)
 # Pip = para mexer com as bibliotecas
 
 # Git:
-# git add (ARQUIVO) / git commit -m "(NOME DE EXIBIÇÃO)" / git push -u origin main
+# git add (ARQUIVO) / git commit -m "(NOME DE EXIBIÇÃO)" / git push -u origin main / push=envia / pull=puxar
