@@ -1,1 +1,1 @@
-Este projeto se trata do curso de programação Python Desenvolvedor, feito pelo professor Rodrigo Macedo. Feito para aprender do python até a inteligência artificial.
+# Este projeto se trata do curso de programação Python Desenvolvedor, feito pelo professor Rodrigo Macedo. Feito para aprender do python até a inteligência artificial.
